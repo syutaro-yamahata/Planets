@@ -2,7 +2,7 @@
 
 ### 🎓 Tokyo Design Technology Center College (TECH.C)
 Super AI Creator Course  
-Project by: 山端修太郎（2年）  
+Project by: 山端修太郎（3年）  
 Team Members: AI / CG / Game 専攻混成チーム  
 
 ---
