@@ -23,4 +23,5 @@ Team Members: AI / CG / Game 専攻混成チーム
 
 ---
 
-
+ポートフォリオ先リンク
+https://github.com/syutaro-yamahata/Planets/blob/main/%E5%B1%B1%E7%AB%AF%E4%BF%AE%E5%A4%AA%E9%83%8E%E3%81%AE%E3%83%9B%E3%82%9A%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%20.pdf
